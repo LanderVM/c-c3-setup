@@ -1,6 +1,6 @@
 # Command & Conquer 3: Tiberium Wars/Kane's Wrath - Setup Guide
 
-This guide will help you configure **C&C3: Tiberium Wars/Kane's Wrath** on modern systems, fix common crashes, and install custom maps and mods.
+This guide will help you configure **C&C3: Tiberium Wars/Kane's Wrath** on modern systems to setup multiplayer, fix common crashes, and install custom maps and mods.
 
 ---
 
@@ -11,29 +11,33 @@ There are two main ways to play multiplayer. You only need to set up one method:
 ### Option 1: C&C:Online (Recommended)
 
 1. Create an account on **C&C:Online**: [https://cnc-online.net/en/](https://cnc-online.net/en/)
-2. [Install](https://cnc-online.net/en/download/) and launch the client, I use the "Tacitus version" which automatically applies the above patches for multiplayer, so you don't have to do the fixes below.
+2. [Install](https://cnc-online.net/en/download/) and launch the client, I use the "Tacitus version" which automatically applies the correct patches for multiplayer, so you don't have to do the fixes below.
 3. Launch the game → **Multiplayer** → **Online** and log in with your C&C:Online account.
 4. You can now join public games or create a private match.
 
-**Video Guide:** [YouTube Tutorial](https://www.youtube.com/watch?v=24uFA1MCaqk)
+**Video Guide (outdated—follow written steps above):** [YouTube Tutorial](https://www.youtube.com/watch?v=24uFA1MCaqk)
+
+<br>
 
 ### Option 2: LAN / Direct IP
 
 1. Ensure all players are on the same network (or use a VPN like Hamachi or SoftEther for remote LAN play).
 2. Launch the game → **Multiplayer** → **LAN** or **Direct IP**.
 3. Enter the host’s IP address to join.
+   
+<br>
 
 **Tips for multiplayer stability:**
 
 - All players should use the same game version, maps, and mods.
 - Avoid mods that increase FPS, as the game speed is affected by FPS: [More info](https://www.reddit.com/r/commandandconquer/comments/o9lhs5/question_how_do_i_make_tiberium_wars_run_this/)
-- Apply the **[4GB patch](#4gb-patch-fix)** to all clients if using large maps or mods (Tacitus client already does this).
 - Use **[cnc-ddraw](#alt-tab-crashes-fix)** to prevent alt-tab crashes mid-game (Tacitus client already does this).
+- Apply the **[4GB patch](#4gb-patch-fix)** to all clients if using large maps or mods (Tacitus client already does this).
 
 ---
 
 ## Fixes
-You don't need to add these when you already use Tacitus client installed from the [Multiplayer section](#option-1-cconline-recommended).
+You don't need to add these when you already use the Tacitus client installed from the [Multiplayer section](#option-1-cconline-recommended).
 
 ### Alt-Tab Crashes Fix
 
