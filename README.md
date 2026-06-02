@@ -11,11 +11,12 @@ There are two main ways to play multiplayer. You only need to set up one method:
 ### Option 1: C&C:Online (Recommended)
 
 1. Create an account on **C&C:Online**: [https://cnc-online.net/en/](https://cnc-online.net/en/)
-2. [Install](https://cnc-online.net/en/download/) and launch the client, I use the "Tacitus version" which automatically applies the correct patches for multiplayer, so you don't have to do the fixes below.
-3. Launch the game → **Multiplayer** → **Online** and log in with your C&C:Online account.
-4. You can now join public games or create a private match.
+2. Create a **[Profile](https://cnc-online.net/en/account/profiles/)** on **C&C:Online**.
+3. [Install](https://cnc-online.net/en/download/) and launch the client, I use the "Tacitus version" which automatically applies the correct patches for multiplayer, so you don't have to do the fixes below.
+4. Launch the game → **Multiplayer** → **Online** and log in with your C&C:Online account.
+5. You can now join public games or create a private match.
 
-**Video Guide (outdated—follow written steps above):** [YouTube Tutorial](https://www.youtube.com/watch?v=24uFA1MCaqk)
+**Updated Video Guide Until 5min30:** [YouTube Tutorial](https://www.youtube.com/watch?v=s9w5hX_0Z_s)
 
 <br>
 
